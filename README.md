@@ -1,2 +1,3 @@
-# Angular1-With-Loopback
-Angular1 used for front end side and Loopback for server side...
+## Client
+
+This is the place for your application front-end files.
