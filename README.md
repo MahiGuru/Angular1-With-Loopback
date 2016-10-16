@@ -1,3 +1,2 @@
-## Client
+## Angular1 Client using Loopback API..
 
-This is the place for your application front-end files.
